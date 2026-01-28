@@ -1,7 +1,7 @@
 ## Olá eu sou o Fernando Maiorani  👋
 
 
-- 🌱 Estudando Python e Linux
+- 🌱 Estudando Python , Linux e C++
 - 📫 Contate-me no email: fernandomaioranicosta6@gmail.com
 - 😄 Pronomes: ele/dele
 
