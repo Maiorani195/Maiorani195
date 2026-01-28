@@ -1,9 +1,8 @@
 ## Olá eu sou o Fernando Maiorani  👋
 
 
-- 🔭. I’m currently working on ...
 - 🌱 Estudando Python e Linux
-- 📫 Contate-me no email:
+- 📫 Contate-me no email: fernandomaioranicosta6@gmail.com
 - 😄 Pronomes: ele/dele
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Maiorani195&show_icons=true&theme=transparent)
