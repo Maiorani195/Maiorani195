@@ -6,7 +6,7 @@
 
 🧠 ***Constantly learning and focused on building reliable and scalable solutions.***  
 
-📫 ***Contact me at: fernandomaioranicosta6@gmail.com***
+📫 ***Contact me at: maioraniifernando@gmail.com***
 
 
 
