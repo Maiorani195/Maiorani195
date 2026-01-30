@@ -1,9 +1,14 @@
-## Olá eu sou o Fernando Maiorani  👋
+Fernando Maiorani
 
 
-- 🌱 Estudando Python , Linux e C++
-- 📫 Contate-me no email: fernandomaioranicosta6@gmail.com
-- 😄 Pronomes: ele/dele
+👨‍💻 Estudante de ADS | Iniciante em Back-end
+
+🐍 Python • 💻 C++
+
+🧠 Aprendendo a construir soluções confiáveis e escaláveis.
+
+📫 Contate-me no email: fernandomaioranicosta6@gmail.com
+  
 
 
 
