@@ -5,7 +5,6 @@
 - 📫 Contate-me no email: fernandomaioranicosta6@gmail.com
 - 😄 Pronomes: ele/dele
 
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Maiorani195&show_icons=true&theme=transparent)
 
 
   
