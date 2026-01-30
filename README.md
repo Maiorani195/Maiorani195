@@ -1,14 +1,11 @@
-Fernando Maiorani
+## Hi, I'm Fernando Maiorani 👋
 
+👨‍💻 ***Analysis and Systems Development student | Back-end developer in training*** 
+***🐍 Python • 💻 C++***
 
-👨‍💻 Estudante de ADS | Iniciante em Back-end
+🧠 ***Constantly learning and focused on building reliable and scalable solutions.***  
 
-🐍 Python • 💻 C++
-
-🧠 Aprendendo a construir soluções confiáveis e escaláveis.
-
-📫 Contate-me no email: fernandomaioranicosta6@gmail.com
-  
+📫 ***Contact me at: fernandomaioranicosta6@gmail.com***
 
 
 
