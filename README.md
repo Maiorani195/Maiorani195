@@ -1,6 +1,7 @@
 ## Hi, I'm Fernando Maiorani 👋
 
 👨‍💻 ***Analysis and Systems Development student | Back-end developer in training*** 
+
 ***🐍 Python • 💻 C++***
 
 🧠 ***Constantly learning and focused on building reliable and scalable solutions.***  
