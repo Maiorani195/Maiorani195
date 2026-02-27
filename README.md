@@ -1,58 +1,61 @@
 <!-- Banner opcional no topo (Pode usar aquele banner que criamos antes!) -->
-<img src="file:///C:/Users/ferna/Downloads/WhatsApp%20Image%202026-02-27%20at%2001.15.19.jpeg" alt="Banner Fernando Maiorani" width="100%">
+<!-- Banner opcional no topo -->
+<img src="URL_DA_SUA_IMAGEM_AQUI" alt="Banner Fernando Maiorani" width="100%">
 
 # Olá, eu sou o Fernando Maiorani! 👋
 
-### Desenvolvedor Back-End | Arquiteto de Soluções e APIs
+### Estudante de Desenvolvimento Back-End
 
-Sou um desenvolvedor focado em construir a base sólida e escalável das aplicações. Tenho paixão por resolver problemas complexos de lógica, otimizar performance de banco de dados e criar lógicas de servidor seguras e eficientes.
+Sou um estudante de tecnologia apaixonado por entender como as coisas funcionam "por baixo dos panos". Atualmente estou dedicando meus estudos para me tornar um desenvolvedor Back-End, construindo minha base lógica e aprendendo a criar minhas primeiras aplicações.
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 Sobre a minha jornada
 
-- ⚙️ Atualmente focado no desenvolvimento **Back-End** criando sistemas de alto desempenho.
-- 💻 Minha stack principal de atuação envolve **Node.js, Python, C++ e SQL**.
-- 💡 Gosto de explorar: Arquitetura de Software, Bancos de Dados Relacionais, APIs RESTful e Código Limpo (Clean-Code).
-- 💬 Pergunte-me sobre: Lógica de programação, estruturação de banco de dados e integrações.
+- 🎓 Sou estudante e estou com foco total em aprender o desenvolvimento **Back-End**.
+- 💻 Minha base de estudos atual envolve **Python, C++, Node.js e SQL**.
+- 🌱 No momento, estou aprendendo a construir APIs (explorando o **FastAPI**) e aprofundando meus conhecimentos na modelagem de **Bancos de Dados**.
+- 💬 Sempre aberto a trocar ideias sobre lógica de programação, resolução de bugs e dicas de estudo.
 - 📫 Como me encontrar: **[maioraniifernando@gmail.com](mailto:maioraniifernando@gmail.com)** 
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias que estou aprendendo
 
-Estas são as linguagens e tecnologias que formam a base do meu trabalho diário:
+Estas são as linguagens e ferramentas que fazem parte da minha rotina de estudos atual:
 
 <div align="center">
-  <!-- Ícone Python -->
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
   <img width="20" />
   
-  <!-- Ícone Node.js -->
+  <!-- FastAPI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="FastAPI" title="FastAPI" />
+  <img width="20" />
+  
+  <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" title="Node.js" />
   <img width="20" />
   
-  <!-- Ícone C++ -->
+  <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" title="C++" />
   <img width="20" />
   
-  <!-- Ícone SQL (Representado com MySQL e PostgreSQL como exemplos de DBs) -->
+  <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="SQL / MySQL" title="SQL / MySQL" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" title="PostgreSQL" />
 </div>
 <br>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Meus Estudos e Práticas no GitHub
 
-Acompanhe meus commits e linguagens mais utilizadas nos projetos recentes.
+Aqui você pode ver a minha frequência de estudos e evolução nos códigos.
 
 <div align="center">
-  <!-- IMPORTANTE: Troque a palavra "SeuUsuario" pelo seu @ do GitHub nas duas linhas abaixo -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=omni&hide_border=true&title_color=000&bg_color=0D1117&text_color=FFF&icon_color=47A1FF" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=omni&hide_border=true&title_color=000&bg_color=0D1117&text_color=FFF" />
+  <!-- ⚠️ ATENÇÃO: Troque a palavra SEU_USUARIO_AQUI pelo seu @ do GitHub real! -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=omni&hide_border=true&title_color=000&bg_color=0D1117&text_color=FFF&icon_color=47A1FF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=omni&hide_border=true&title_color=000&bg_color=0D1117&text_color=FFF" />
 </div>
 
 ---
