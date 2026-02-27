@@ -47,8 +47,7 @@ Estas são as linguagens e ferramentas que fazem parte da minha rotina de estudo
 <br>
 
 ---
-
-
+<div align="center"><img src="https://streak-stats.demolab.com/?user=maiorani195&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></div>
 ---
 
 ### 📫 Conecte-se comigo
@@ -59,4 +58,4 @@ Estas são as linguagens e ferramentas que fazem parte da minha rotina de estudo
   <a href="mailto:maioraniifernando@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center"><img src="https://streak-stats.demolab.com/?user=maiorani195&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></div>
+
