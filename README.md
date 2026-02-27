@@ -1,6 +1,6 @@
 <!-- Banner opcional no topo (Pode usar aquele banner que criamos antes!) -->
 <!-- Banner opcional no topo -->
-<img src="URL_DA_SUA_IMAGEM_AQUI" alt="Banner Fernando Maiorani" width="100%">
+
 
 # Olá, eu sou o Fernando Maiorani! 👋
 
@@ -48,22 +48,13 @@ Estas são as linguagens e ferramentas que fazem parte da minha rotina de estudo
 
 ---
 
-### 📊 Meus Estudos e Práticas no GitHub
-
-Aqui você pode ver a minha frequência de estudos e evolução nos códigos.
-
-<div align="center">
-  <!-- ⚠️ ATENÇÃO: Troque a palavra SEU_USUARIO_AQUI pelo seu @ do GitHub real! -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=omni&hide_border=true&title_color=000&bg_color=0D1117&text_color=FFF&icon_color=47A1FF" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=omni&hide_border=true&title_color=000&bg_color=0D1117&text_color=FFF" />
-</div>
 
 ---
 
 ### 📫 Conecte-se comigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5511976364761" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fernandomaiorani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5511952408785" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="mailto:maioraniifernando@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
