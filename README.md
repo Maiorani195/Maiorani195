@@ -12,7 +12,7 @@ I'm a technology student passionate about understanding how things work "under t
 - 🌱 Currently learning how to build APIs (exploring **FastAPI**) and deepening my knowledge in **Database** modeling.
 - 💬 Always open to exchanging ideas about programming logic, debugging, and study tips.
 - 📫 How to reach me: **[maioraniifernando@gmail.com](mailto:maioraniifernando@gmail.com)** 
----
+
 ### 🛠️ Technologies I'm learning
 These are the languages and tools that are part of my current study routine:
 <div align="center">
