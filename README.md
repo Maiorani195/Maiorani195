@@ -2,28 +2,19 @@
 <!-- Banner opcional no topo -->
 
 
-# Olá, eu sou o Fernando Maiorani! 👋
-
-### Estudante de Desenvolvimento Back-End
-
-Sou um estudante de tecnologia apaixonado por entender como as coisas funcionam "por baixo dos panos". Atualmente estou dedicando meus estudos para me tornar um desenvolvedor Back-End, construindo minha base lógica e criando minhas aplicações
-
+# Hi there, I'm Fernando Maiorani! 👋
+### Back-End Development Student
+I'm a technology student passionate about understanding how things work "under the hood". Currently, I'm dedicating my studies to becoming a Back-End developer, building my logical foundation, and creating my own applications.
 ---
-
-### 🚀 Sobre a minha jornada
-
-- 🎓 Sou estudante e estou com foco total em aprender o desenvolvimento **Back-End**.
-- 💻 Minha base de estudos atual envolve **Python, C++, Node.js e SQL**.
-- 🌱 No momento, estou aprendendo a construir APIs (explorando o **FastAPI**) e aprofundando meus conhecimentos na modelagem de **Bancos de Dados**.
-- 💬 Sempre aberto a trocar ideias sobre lógica de programação, resolução de bugs e dicas de estudo.
-- 📫 Como me encontrar: **[maioraniifernando@gmail.com](mailto:maioraniifernando@gmail.com)** 
-
+### 🚀 About my journey
+- 🎓 I'm a student fully focused on learning **Back-End** development.
+- 💻 My current study stack includes **Python, C++, Node.js, and SQL**.
+- 🌱 Currently learning how to build APIs (exploring **FastAPI**) and deepening my knowledge in **Database** modeling.
+- 💬 Always open to exchanging ideas about programming logic, debugging, and study tips.
+- 📫 How to reach me: **[maioraniifernando@gmail.com](mailto:maioraniifernando@gmail.com)** 
 ---
-
-### 🛠️ Tecnologias que estou aprendendo
-
-Estas são as linguagens e ferramentas que fazem parte da minha rotina de estudos atual:
-
+### 🛠️ Technologies I'm learning
+These are the languages and tools that are part of my current study routine:
 <div align="center">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
@@ -45,18 +36,12 @@ Estas são as linguagens e ferramentas que fazem parte da minha rotina de estudo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="SQL / MySQL" title="SQL / MySQL" />
 </div>
 <br>
-
 ---
 <div align="center"><img src="https://streak-stats.demolab.com/?user=maiorani195&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></div>
-
 ---
-
-### 📫 Conecte-se comigo
-
+### 📫 Connect with me
 <div align="center">
   <a href="https://www.linkedin.com/in/fernandomaiorani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5511952408785" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="mailto:maioraniifernando@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-
