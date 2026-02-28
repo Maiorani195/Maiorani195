@@ -15,6 +15,7 @@ I'm a technology student passionate about understanding how things work "under t
 
 ### 🛠️ Technologies I'm learning
 These are the languages and tools that are part of my current study routine:
+
 <div align="center">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
