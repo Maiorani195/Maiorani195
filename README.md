@@ -5,7 +5,7 @@
 # Hi there, I'm Fernando Maiorani! 👋
 ### Back-End Development Student
 I'm a technology student passionate about understanding how things work "under the hood". Currently, I'm dedicating my studies to becoming a Back-End developer, building my logical foundation, and creating my own applications.
----
+
 ### 🚀 About my journey
 - 🎓 I'm a student fully focused on learning **Back-End** development.
 - 💻 My current study stack includes **Python, C++, Node.js, and SQL**.
