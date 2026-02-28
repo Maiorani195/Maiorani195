@@ -6,7 +6,7 @@
 
 ### Estudante de Desenvolvimento Back-End
 
-Sou um estudante de tecnologia apaixonado por entender como as coisas funcionam "por baixo dos panos". Atualmente estou dedicando meus estudos para me tornar um desenvolvedor Back-End, construindo minha base lógica e aprendendo a criar minhas primeiras aplicações.
+Sou um estudante de tecnologia apaixonado por entender como as coisas funcionam "por baixo dos panos". Atualmente estou dedicando meus estudos para me tornar um desenvolvedor Back-End, construindo minha base lógica e criando minhas aplicações
 
 ---
 
