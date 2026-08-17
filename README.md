@@ -10,9 +10,9 @@ I have an analytical mindset and enjoy solving problems, understanding how thing
 
 I'm a student focused on Development and Cybersecurity. My study stack includes Python, Java, Node.js, Networking & Protocols, and SQL. I've had some hands-on experience with non-relational databases (NoSQL). Always open to exchanging ideas about programming, problems, and solutions.
 
-<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:22D3EE&height=3&width=800" alt="divider" />
+
+
 
 <br><br>
 
