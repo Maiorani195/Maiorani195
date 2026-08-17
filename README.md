@@ -13,8 +13,6 @@ I'm a student focused on Development and Cybersecurity. My study stack includes 
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:22D3EE&height=3&width=800" alt="divider" />
-📊 My Stats & Top Languages
-<br> <p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maiorani195&theme=dark&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE" alt="GitHub Streak Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiorani195&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" /> </p>
 
 <br><br>
 
