@@ -49,14 +49,12 @@
   Aplicação focada na construção de APIs RESTful e arquitetura backend escalável.
   <br><br>
 
-  ### 🐍 Cobrinha de Contribuições
+  ### 🔥 Sequência de Contribuições (Streak)
   
-  <!-- ATENÇÃO: Substitua SEU_USUARIO_DO_GITHUB_AQUI pelo seu nickname real do GitHub -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_DO_GITHUB_AQUI/SEU_USUARIO_DO_GITHUB_AQUI/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_DO_GITHUB_AQUI/SEU_USUARIO_DO_GITHUB_AQUI/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO_DO_GITHUB_AQUI/SEU_USUARIO_DO_GITHUB_AQUI/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!-- ATENÇÃO: Substitua SEU_USUARIO_AQUI pelo seu nickname do GitHub nas DUAS linhas abaixo -->
+  <a href="https://github.com/SEU_USUARIO_AQUI">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" />
+  </a>
 
   <br><br>
 
