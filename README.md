@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
   **Databases:**<br>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -38,26 +37,27 @@
 
   ### ⚙️ Featured Projects
 
+  **LogSentinel (in progress)**<br>
+  Continuous background monitoring system to detect anomalies in local log files, with real-time Slack alerts and SQLite persistence.
+  <br><br>
+
   **Jovi Leans (in progress)**<br>
   AI system integrated with the Jovi V70 smartphone camera, providing real-time photo suggestion and ranking. Group project developed at FIAP.
   <br><br>
 
-  **ML Agent (in progress)**<br>
-  AI-powered assistant to automate seller support on Mercado Livre, using n8n, Google Gemini, and WhatsApp integration.
+  **DevJob**<br>
+  Application focused on building RESTful APIs and scalable backend architecture.
   <br><br>
-  
-  *(Dica: Considere adicionar seus projetos pessoais focados em back-end aqui futuramente, como o LogSentinel, DevJob ou Techlog Solutions!)*
 
-  <br>
+  ### 📊 GitHub Stats & Top Languages
 
-  ### 🐍 Github Contributions
-
-  <!-- Substitua "SeuUsuario" pelo seu @ do GitHub nos 3 links abaixo para a cobrinha funcionar -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SeuUsuario/SeuUsuario/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SeuUsuario/SeuUsuario/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SeuUsuario/SeuUsuario/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!-- ATENÇÃO: Substitua "SeuUsuario" pelo seu @ do GitHub nos dois links abaixo para aparecer as barras de linguagem -->
+  <a href="https://github.com/SeuUsuario">
+    <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight&locale=en" height="170">
+  </a>
+  <a href="https://github.com/SeuUsuario">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=tokyonight" height="170">
+  </a>
 
   <br><br>
 
