@@ -1,9 +1,10 @@
+<picture>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1520,100:1B3A66&height=200&section=header&text=Fernando%20Maiorani%20Costa&fontSize=38&fontColor=E7ECF1&fontAlignY=35&desc=Redes%20de%20computadores%20%26%20seguran%C3%A7a%20da%20informa%C3%A7%C3%A3o&descAlignY=55&descSize=16&descColor=8B99A8&animation=fadeIn" />
+</picture>
+
 <div align="center">
 
-# Fernando Maiorani Costa 🫆
-### Redes de computadores & segurança da informação
-
-![status](https://img.shields.io/badge/status-aberto%20a%20est%C3%A1gio-4C8DFF?style=for-the-badge&labelColor=0A0E17)
+[![typing](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1000&color=4C8DFF&center=true&vCenter=true&width=480&lines=aberto+a+oportunidades+de+est%C3%A1gio;redes+%2B+seguran%C3%A7a+da+informa%C3%A7%C3%A3o;FIAP+%E2%80%94+ADS+%7C+2028)](https://git.io/typing-svg)
 
 </div>
 
@@ -41,8 +42,17 @@ Assistente com IA para automatizar o suporte a vendedores no Mercado Livre, usan
 
 <div align="center">
 
-<!-- troque SEU_USUARIO_GITHUB pelo seu usuário -->
-<img src="https://ghchart.rshah.org/4C8DFF/SEU_USUARIO_GITHUB" alt="Gráfico de contribuições do GitHub" width="100%">
+<!-- essa imagem só aparece depois de configurar o workflow snake.yml (veja instruções abaixo) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg">
+  <img alt="cobrinha comendo as contribuições" width="100%" src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=transparent&hide_border=true&title_color=4C8DFF&icon_color=4C8DFF&text_color=E7ECF1" />
+<img height="165" src="https://streak-stats.demolab.com/?user=SEU_USUARIO_GITHUB&theme=transparent&hide_border=true&stroke=212C3B&ring=4C8DFF&fire=F2B84B&currStreakLabel=4C8DFF&sideLabels=8B99A8&dates=8B99A8" />
 
 </div>
 
