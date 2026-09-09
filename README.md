@@ -29,10 +29,10 @@ Tenho um raciocínio analítico e gosto de entender como as coisas funcionam por
 **Jovi Leans** `em andamento`
 Sistema de IA integrado à câmera do smartphone Jovi V70, com sugestão e ranqueamento de fotos em tempo real. Projeto em grupo desenvolvido na FIAP.
 
-**[Nome do projeto finalizado]** `finalizado`
+**Dev-Job** `finalizado`
 [Descrição breve do projeto — preencha aqui.]
 
-**LogSentinel** `em andamento`
+**LogSentinel** ` projeto em andamento`
 Sistema autônomo de monitoramento e análise de logs, com detecção de anomalias (tentativas de força bruta, erros em cascata) e alertas via Slack. Projeto pessoal com foco em segurança e observabilidade.
 
 <br>
@@ -47,12 +47,12 @@ Sistema autônomo de monitoramento e análise de logs, com detecção de anomali
 
 <br>
 
-### Conexão
+### Conexões
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/SEU_NUMERO)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandomaiorani/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511952408785)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maioraniifernando@gmail.com)
 
 </div>
