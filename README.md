@@ -1,10 +1,5 @@
 <div align="center">
 
-# Fernando Maiorani Costa
-<sub>Redes de computadores & segurança da informação</sub>
-
-<br>
-
 [![typing](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1000&color=4C8DFF&center=true&vCenter=true&width=480&lines=Fernando+Maiorani+Costa;aberto+a+oportunidade+de+est%C3%A1gio;seguran%C3%A7a+da+informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 </div>
@@ -46,7 +41,7 @@ Sistema autônomo de monitoramento e análise de logs, com detecção de anomali
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com/?user=SEU_USUARIO_GITHUB&theme=transparent&hide_border=true&stroke=212C3B&background=00000000&ring=8B99A8&fire=8B99A8&currStreakLabel=8B99A8&sideLabels=8B99A8&dates=8B99A8&currStreakNum=E7ECF1&sideNums=E7ECF1" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Maiorani195&theme=transparent&hide_border=true&stroke=212C3B&background=00000000&ring=8B99A8&fire=8B99A8&currStreakLabel=8B99A8&sideLabels=8B99A8&dates=8B99A8&currStreakNum=E7ECF1&sideNums=E7ECF1" />
 
 </div>
 
@@ -56,10 +51,8 @@ Sistema autônomo de monitoramento e análise de logs, com detecção de anomali
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B99A8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E17)](SEU_LINK_LINKEDIN)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-8B99A8?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0A0E17)](https://wa.me/SEU_NUMERO)
-[![Gmail](https://img.shields.io/badge/Gmail-8B99A8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E17)](mailto:SEU_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/SEU_NUMERO)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
 
 </div>
-
-</markdown>
