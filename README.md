@@ -1,78 +1,66 @@
 <div align="center">
 
-  # Fernando Maiorani
-  ### Estudante de Desenvolvimento Back-End
+# Fernando Maiorani Costa 🫆
+### Redes de computadores & segurança da informação
 
-  Tenho uma mentalidade analítica e gosto de resolver problemas, entendendo como as coisas funcionam por trás dos sistemas. Estudo Análise e Desenvolvimento de Sistemas na FIAP.
+![status](https://img.shields.io/badge/status-aberto%20a%20est%C3%A1gio-4C8DFF?style=for-the-badge&labelColor=0A0E17)
 
-  <br>
+</div>
 
-  ### 🚀 Sobre a minha jornada
-  Sou um estudante focado em Desenvolvimento e Segurança Cibernética. Minha stack de estudo inclui Python, Java, Node.js, Redes & Protocolos e SQL. Tenho experiência prática com bancos de dados não relacionais (NoSQL). Sempre aberto a trocar ideias sobre programação, problemas e soluções.
+<br>
 
-  <br>
+### `~/sobre`
 
-  ### 🛠️ Minha Stack Principal
-  
-  **Linguagens:**<br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+Tenho um raciocínio analítico e gosto de entender como as coisas funcionam por trás dos sistemas — da camada de aplicação até o pacote que trafega pela rede. Estudo Análise e Desenvolvimento de Sistemas na FIAP, com foco em redes de computadores e segurança da informação. Sempre aberto a trocar ideias sobre infraestrutura, código e problemas reais.
 
-  **Frameworks & Ferramentas:**<br>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<br>
 
-  **Bancos de Dados:**<br>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/NoSQL-3F3E42?style=for-the-badge&logo=mongodb&logoColor=white">
+### `~/stack`
 
-  <br>
+![Python](https://img.shields.io/badge/Python-4C8DFF?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0E17)
+![Java](https://img.shields.io/badge/Java-4C8DFF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0A0E17)
+![Node.js](https://img.shields.io/badge/Node.js-4C8DFF?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0A0E17)
+![JavaScript](https://img.shields.io/badge/JavaScript-4C8DFF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0A0E17)
+![SQL](https://img.shields.io/badge/SQL-4C8DFF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0A0E17)
+![Redes](https://img.shields.io/badge/Redes-4C8DFF?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0A0E17)
+![Linux](https://img.shields.io/badge/Linux-4C8DFF?style=for-the-badge&logo=linux&logoColor=white&labelColor=0A0E17)
 
-  ### ⚙️ Projetos em Destaque
+<br>
 
-  **LogSentinel (em progresso)**<br>
-  Sistema de monitoramento contínuo em background para detectar anomalias em arquivos de log locais, com alertas do Slack em tempo real e persistência no SQLite.
-  <br><br>
+### `~/projetos`
 
-  **Jovi Leans (em progresso)**<br>
-  Sistema de IA integrado à câmera do smartphone Jovi V70, fornecendo sugestões e ranqueamento de fotos em tempo real. Projeto em grupo desenvolvido na FIAP.
-  <br><br>
+**Jovi Leans** `em andamento`
+Sistema de IA integrado à câmera do smartphone Jovi V70, com sugestão e ranqueamento de fotos em tempo real. Projeto em grupo desenvolvido na FIAP.
 
-  **DevJob**<br>
-  Aplicação focada na construção de APIs RESTful e arquitetura backend escalável.
-  <br><br>
+**ML Agent** `em andamento`
+Assistente com IA para automatizar o suporte a vendedores no Mercado Livre, usando n8n, Google Gemini e integração com WhatsApp.
 
-  ### 🔥 Sequência de Contribuições (Streak)
-  
-  <!-- ATENÇÃO: Substitua SEU_USUARIO_AQUI pelo seu nickname do GitHub nas DUAS linhas abaixo -->
-  <a href="https://github.com/SEU_USUARIO_AQUI">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&locale=pt_BR" alt="GitHub Streak" />
-  </a>
+<br>
 
-  <br><br>
+### `~/contribuicoes`
 
-  ### 🤝 Conectar Comigo
+<div align="center">
 
-  <!-- COLOQUE SEU LINK DO LINKEDIN DENTRO DAS ASPAS DO href="" -->
-  <a href="COLOQUE_SEU_LINK_DO_LINKEDIN_AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  <!-- COLOQUE SEU LINK DO WHATSAPP DENTRO DAS ASPAS DO href="" -->
-  <a href="COLOQUE_SEU_LINK_DO_WHATSAPP_AQUI">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  
-  <!-- COLOQUE SEU E-MAIL DENTRO DAS ASPAS DEPOIS DO mailto: -->
-  <a href="mailto:COLOQUE_SEU_EMAIL_AQUI@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<!-- troque SEU_USUARIO_GITHUB pelo seu usuário -->
+<img src="https://ghchart.rshah.org/4C8DFF/SEU_USUARIO_GITHUB" alt="Gráfico de contribuições do GitHub" width="100%">
 
+</div>
+
+<br>
+
+### `~/conexao`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B99A8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E17)](SEU_LINK_LINKEDIN)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-8B99A8?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0A0E17)](https://wa.me/SEU_NUMERO)
+[![Gmail](https://img.shields.io/badge/Gmail-8B99A8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E17)](mailto:SEU_EMAIL@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-8B99A8?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0E17)](https://github.com/SEU_USUARIO_GITHUB)
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>feito com markdown e curiosidade sobre como as coisas se conectam.</sub>
 </div>
