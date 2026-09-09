@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![typing](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1000&color=4C8DFF&center=true&vCenter=true&width=480&lines=aberto+a+oportunidades+de+est%C3%A1gio;redes+%2B+seguran%C3%A7a+da+informa%C3%A7%C3%A3o;FIAP+%E2%80%94+ADS+%7C+2028)](https://git.io/typing-svg)
+[![typing](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1000&color=4C8DFF&center=true&vCenter=true&width=480&lines=Fernando+Maiorani+Costa;aberto+a+oportunidade+de+est%C3%A1gio;seguran%C3%A7a+da+informa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,13 +18,13 @@ Tenho um raciocínio analítico e gosto de entender como as coisas funcionam por
 
 ### `~/stack`
 
-![Python](https://img.shields.io/badge/Python-4C8DFF?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0E17)
-![Java](https://img.shields.io/badge/Java-4C8DFF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0A0E17)
-![Node.js](https://img.shields.io/badge/Node.js-4C8DFF?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0A0E17)
-![JavaScript](https://img.shields.io/badge/JavaScript-4C8DFF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0A0E17)
-![SQL](https://img.shields.io/badge/SQL-4C8DFF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0A0E17)
-![Redes](https://img.shields.io/badge/Redes-4C8DFF?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0A0E17)
-![Linux](https://img.shields.io/badge/Linux-4C8DFF?style=for-the-badge&logo=linux&logoColor=white&labelColor=0A0E17)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Redes-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
 
@@ -33,8 +33,11 @@ Tenho um raciocínio analítico e gosto de entender como as coisas funcionam por
 **Jovi Leans** `em andamento`
 Sistema de IA integrado à câmera do smartphone Jovi V70, com sugestão e ranqueamento de fotos em tempo real. Projeto em grupo desenvolvido na FIAP.
 
-**ML Agent** `em andamento`
-Assistente com IA para automatizar o suporte a vendedores no Mercado Livre, usando n8n, Google Gemini e integração com WhatsApp.
+**[Nome do projeto finalizado]** `finalizado`
+[Descrição breve do projeto — preencha aqui.]
+
+**LogSentinel** `em andamento`
+Sistema autônomo de monitoramento e análise de logs, com detecção de anomalias (tentativas de força bruta, erros em cascata) e alertas via Slack. Projeto pessoal com foco em segurança e observabilidade.
 
 <br>
 
@@ -42,7 +45,7 @@ Assistente com IA para automatizar o suporte a vendedores no Mercado Livre, usan
 
 <div align="center">
 
-<!-- essa imagem só aparece depois de configurar o workflow snake.yml (veja instruções abaixo) -->
+<!-- essa parte você disse que vai configurar -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg">
