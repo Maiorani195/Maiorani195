@@ -1,16 +1,16 @@
 <div align="center">
 
-  <!-- Header Dinâmico Waving com Paleta Dark -->
+  <!-- Header Dinâmico Estável (Corrigido para não quebrar) -->
   <a href="https://github.com/Maiorani195">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=220&section=header&text=Fernando%20Maiorani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Engenharia%20Back-end%20•%20Redes%20%26%20Linux%20•%20Estudante%20ADS%20FIAP&descAlignY=58&descSize=16" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=220&section=header&text=Fernando%20Maiorani&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Engenharia%20Back-end%20%7C%20Redes%20e%20Linux%20%7C%20Estudante%20ADS%20FIAP&descAlignY=58&descSize=16" width="100%" />
   </a>
 
-  <!-- Typing SVG Dinâmico com suas Especialidades -->
+  <!-- Typing SVG Dinâmico -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=1000&color=50FA7B&center=true&vCenter=true&multiline=false&width=620&lines=%3E_Engenharia+de+Software+Back-end+com+Python+%26+Java;%3E_Administra%C3%A7%C3%A3o+Linux,+Scripts+Bash+%26+Seguran%C3%A7a+de+Redes;%3E_Modelagem+de+Dados+Avan%C3%A7ada+(Oracle+SQL,+MongoDB,+SQLite);%3E_Graduando+em+ADS+na+FIAP+(Conclus%C3%A3o+12%2F2028)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=1000&color=50FA7B&center=true&vCenter=true&multiline=false&width=620&lines=%3E_Engenharia+de+Software+Back-end+com+Java+%26+Python;%3E_Monitoramento+de+Logs,+Linux+e+Seguran%C3%A7a;%3E_APIs+com+Spring+Boot,+FastAPI+e+Bancos+de+Dados;%3E_Graduando+em+ADS+na+FIAP+(Conclus%C3%A3o+12%2F2028)" alt="Typing SVG" />
   </p>
 
-  <!-- Links de Contato & Redes -->
+  <!-- Redes e Contato -->
   <p align="center">
     <a href="https://www.linkedin.com/in/fernandomaiorani/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -24,25 +24,25 @@
 
 <br/>
 
-### 🧠 Sobre Mim & Áreas de Foco
+### 🧠 Sobre Mim & Foco Técnico
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>🔒 Redes, Linux & Infraestrutura</h4>
       <ul>
-        <li>Estudos contínuos em <b>arquitetura de redes</b> (roteamento, DNS, IPv6, protocolos TCP/IP).</li>
-        <li>Administração de sistemas <b>Linux / Ubuntu</b> e automação com scripts <b>Shell / Bash</b>.</li>
-        <li>Foco em análise de tráfego, processamento seguro de logs e integridade de sistemas.</li>
+        <li>Estudos em <b>arquitetura de redes</b> (roteamento, DNS, IPv6, protocolos TCP/IP).</li>
+        <li>Administração de sistemas <b>Linux / Ubuntu</b> e scripts <b>Shell / Bash</b>.</li>
+        <li>Monitoramento proativo de logs, análise de tráfego e tratamento de anomalias.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ Engenharia de Software & Dados</h4>
+      <h4>⚙️ Engenharia de Software Back-end</h4>
       <ul>
         <li>🎓 Cursando <b>Análise e Desenvolvimento de Sistemas na FIAP</b> (prev. 12/2028).</li>
-        <li>Construção de APIs e serviços robustos com <b>Python</b> e <b>Java</b>.</li>
-        <li>Modelagem relacional e não-relacional com <b>Oracle SQL</b>, <b>MongoDB</b> e <b>SQLite</b>.</li>
-        <li>Criação de rotinas assíncronas, web scraping e automação de processos.</li>
+        <li>Desenvolvimento com <b>Java (Spring Boot)</b> e <b>Python (FastAPI / Flask)</b>.</li>
+        <li>Modelagem relacional e NoSQL: <b>Oracle SQL, MongoDB e SQLite</b>.</li>
+        <li>Criação de rotinas assíncronas, web scraping e microsserviços.</li>
       </ul>
     </td>
   </tr>
@@ -56,8 +56,9 @@
 
 <!-- Linguagens & Back-end -->
 <p><b>Linguagens & Frameworks Back-end</b></p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -83,34 +84,39 @@
 
 ### 📌 Projetos em Destaque
 
-<table>
+<table width="100%">
   <thead>
     <tr>
-      <th>Projeto</th>
-      <th>Descrição</th>
-      <th>Stack Principal</th>
+      <th width="28%" align="left">Projeto</th>
+      <th width="48%" align="left">Descrição</th>
+      <th width="24%" align="left">Stack Principal</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>🚀 <b>Dev-Job</b></td>
+      <td>🛡️ <b><a href="https://github.com/Maiorani195/LogSentinel" target="_blank">LogSentinel</a></b> <img src="https://img.shields.io/badge/Em%20Andamento-bd93f9?style=flat-square" /></td>
+      <td>Sistema de monitoramento contínuo de logs em background. Detecta falhas críticas, força bruta e cascatas, disparando alertas em menos de 3s no Slack com persistência assíncrona.</td>
+      <td><code>Java</code> <code>Spring Boot</code> <code>SQLite</code> <code>WatchService</code></td>
+    </tr>
+    <tr>
+      <td>🚀 <b><a href="https://github.com/Maiorani195/Dev-Job" target="_blank">Dev-Job</a></b></td>
       <td>Pipeline automatizado de coleta (web scraping), deduplicação e API REST assíncrona para agregar vagas de tecnologia.</td>
       <td><code>Python</code> <code>FastAPI</code> <code>SQL</code> <code>Scraping</code></td>
     </tr>
     <tr>
-      <td>🌍 <b>Earth 1-17</b></td>
+      <td>🌍 <b><a href="https://github.com/Maiorani195/Earth-1-17" target="_blank">Earth 1-17</a></b></td>
       <td>Plataforma de telemetria climática e satélite com IA. Modelagem relacional completa em Oracle SQL (<b>Nota 9/10 na FIAP</b>).</td>
-      <td><code>Oracle SQL</code> <code>MER</code> <code>Python</code> <code>IA</code></td>
+      <td><code>Oracle SQL</code> <code>Python</code> <code>IA</code></td>
     </tr>
     <tr>
-      <td>📱 <b>Jovi Leans</b></td>
+      <td>📱 <b><a href="https://github.com/Maiorani195/Jovi-Leans" target="_blank">Jovi Leans</a></b></td>
       <td>Challenge corporativo FIAP integrando modelo de IA e visão computacional à câmera do smartphone Jovi V70 em tempo real.</td>
-      <td><code>Python</code> <code>Visão Computacional</code> <code>Mobile</code></td>
+      <td><code>Python</code> <code>Visão Computacional</code></td>
     </tr>
     <tr>
-      <td>🛒 <b>StyleSinc</b></td>
+      <td>🛒 <b><a href="https://github.com/Maiorani195/StyleSinc" target="_blank">StyleSinc</a></b></td>
       <td>Back-end modular para gerenciamento de estoque e e-commerce integrado a banco de dados orientado a documentos.</td>
-      <td><code>Python</code> <code>Flask</code> <code>MongoDB</code> <code>REST</code></td>
+      <td><code>Python</code> <code>Flask</code> <code>MongoDB</code></td>
     </tr>
   </tbody>
 </table>
@@ -147,22 +153,8 @@
 
 <br/>
 
-### 📊 Estatísticas & Atividade GitHub
+### 📊 Atividade & Streak no GitHub
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Maiorani195&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=50fa7b&text_color=f8f8f2&icon_color=bd93f9" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiorani195&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2" width="100%" alt="Top Langs" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maiorani195&theme=dracula&hide_border=true&background=0d1117&ring=bd93f9&fire=ff5555&currStreakLabel=50fa7b" width="100%" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maiorani195&theme=dracula&hide_border=true&background=0d1117&ring=bd93f9&fire=ff5555&currStreakLabel=50fa7b" width="85%" alt="GitHub Streak de Maiorani195" />
 </div>
