@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Header Dinâmico Estável (Corrigido para não quebrar) -->
+  <!-- Header Dinâmico Estável -->
   <a href="https://github.com/Maiorani195">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=220&section=header&text=Fernando%20Maiorani&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Engenharia%20Back-end%20%7C%20Redes%20e%20Linux%20%7C%20Estudante%20ADS%20FIAP&descAlignY=58&descSize=16" width="100%" />
   </a>
@@ -87,36 +87,43 @@
 <table width="100%">
   <thead>
     <tr>
-      <th width="28%" align="left">Projeto</th>
-      <th width="48%" align="left">Descrição</th>
+      <th width="30%" align="left">Projeto</th>
+      <th width="46%" align="left">Descrição</th>
       <th width="24%" align="left">Stack Principal</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>🛡️ <b><a href="https://github.com/Maiorani195/LogSentinel" target="_blank">LogSentinel</a></b> <img src="https://img.shields.io/badge/Em%20Andamento-bd93f9?style=flat-square" /></td>
-      <td>Sistema de monitoramento contínuo de logs em background. Detecta falhas críticas, força bruta e cascatas, disparando alertas em menos de 3s no Slack com persistência assíncrona.</td>
+      <td>
+        🛡️ <b><a href="https://github.com/Maiorani195/LogSentinel" target="_blank">LogSentinel</a></b><br/>
+        <img src="https://img.shields.io/badge/Status-Em%20Andamento-bd93f9?style=flat-square" />
+      </td>
+      <td>Sistema de monitoramento contínuo de logs em background. Detecta falhas críticas, força bruta e cascatas, disparando alertas no Slack em menos de 3s com persistência assíncrona.</td>
       <td><code>Java</code> <code>Spring Boot</code> <code>SQLite</code> <code>WatchService</code></td>
     </tr>
     <tr>
-      <td>🚀 <b><a href="https://github.com/Maiorani195/Dev-Job" target="_blank">Dev-Job</a></b></td>
-      <td>Pipeline automatizado de coleta (web scraping), deduplicação e API REST assíncrona para agregar vagas de tecnologia.</td>
+      <td>
+        📱 <b><a href="https://github.com/Maiorani195/Jovi-Leans" target="_blank">Jovi Leans</a></b><br/>
+        <img src="https://img.shields.io/badge/Status-Em%20Andamento-bd93f9?style=flat-square" />
+      </td>
+      <td>Challenge corporativo FIAP integrando modelo de IA e visão computacional à câmera do smartphone Jovi V70 em tempo real.</td>
+      <td><code>Python</code> <code>Visão Computacional</code> <code>IA</code></td>
+    </tr>
+    <tr>
+      <td>
+        🚀 <b><a href="https://github.com/Maiorani195/Dev-Job" target="_blank">Dev-Job</a></b><br/>
+        <img src="https://img.shields.io/badge/Status-Concluído-50fa7b?style=flat-square" />
+      </td>
+      <td>Pipeline automatizado de extração (web scraping), deduplicação e API REST assíncrona para agregação e busca de vagas de tecnologia.</td>
       <td><code>Python</code> <code>FastAPI</code> <code>SQL</code> <code>Scraping</code></td>
     </tr>
     <tr>
-      <td>🌍 <b><a href="https://github.com/Maiorani195/Earth-1-17" target="_blank">Earth 1-17</a></b></td>
-      <td>Plataforma de telemetria climática e satélite com IA. Modelagem relacional completa em Oracle SQL (<b>Nota 9/10 na FIAP</b>).</td>
-      <td><code>Oracle SQL</code> <code>Python</code> <code>IA</code></td>
-    </tr>
-    <tr>
-      <td>📱 <b><a href="https://github.com/Maiorani195/Jovi-Leans" target="_blank">Jovi Leans</a></b></td>
-      <td>Challenge corporativo FIAP integrando modelo de IA e visão computacional à câmera do smartphone Jovi V70 em tempo real.</td>
-      <td><code>Python</code> <code>Visão Computacional</code></td>
-    </tr>
-    <tr>
-      <td>🛒 <b><a href="https://github.com/Maiorani195/StyleSinc" target="_blank">StyleSinc</a></b></td>
-      <td>Back-end modular para gerenciamento de estoque e e-commerce integrado a banco de dados orientado a documentos.</td>
-      <td><code>Python</code> <code>Flask</code> <code>MongoDB</code></td>
+      <td>
+        🌍 <b><a href="https://github.com/Maiorani195/Earth-1-17" target="_blank">Earth 1-17</a></b><br/>
+        <img src="https://img.shields.io/badge/Status-Concluído-50fa7b?style=flat-square" />
+      </td>
+      <td>Plataforma de telemetria climática e satélite com IA. Modelagem relacional completa em Oracle SQL (<b>Avaliado com Nota 9/10 na FIAP</b>).</td>
+      <td><code>Oracle SQL</code> <code>MER</code> <code>Python</code> <code>IA</code></td>
     </tr>
   </tbody>
 </table>
