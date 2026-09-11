@@ -144,8 +144,9 @@
     <td width="50%" valign="top">
       <b>☕ Software, Dados & APIs</b>
       <ul>
-        <li><b>Consultas Avançadas em SQL:</b> Joins, Views e Transações (Alura)</li>
+        <li><b>Java & Spring Boot:</b> Programação Orientada a Objetos, APIs REST e Arquitetura</li>
         <li><b>Python & APIs:</b> Django Admin/ORM, Flask com MongoDB e POO (Alura)</li>
+        <li><b>Consultas Avançadas em SQL:</b> Joins, Views e Transações (Alura)</li>
         <li><b>Lógica, Algoritmos & Estruturas de Dados:</b> Formação FIAP</li>
       </ul>
     </td>
