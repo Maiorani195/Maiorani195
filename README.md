@@ -1,4 +1,4 @@
-<div align="center"
+<div align="center">
 
   <!-- Header Dinâmico Estável -->
   <a href="https://github.com/Maiorani195">
