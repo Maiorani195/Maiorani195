@@ -82,6 +82,14 @@
 
 <br/>
 
+### 🐍 Atividade no GitHub
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Maiorani195/Maiorani195/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
 ### 📌 Projetos em Destaque
 
 <table width="100%">
@@ -95,8 +103,8 @@
   <tbody>
     <tr>
       <td>
-        🛡️ <b><a href="https://github.com/Maiorani195/LogSentinel"Status-Concluído target="_blank">LogSentinel</a></b><br/>
-        <img src="https://img.shields.io/badge/Status--bd93f9?style=flat-square" />
+        🛡️ <b><a href="https://github.com/Maiorani195/LogSentinel" target="_blank">LogSentinel</a></b><br/>
+        <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-50fa7b?style=flat-square" />
       </td>
       <td>Sistema de monitoramento contínuo de logs em background. Detecta falhas críticas, força bruta e cascatas, disparando alertas no Slack em menos de 3s com persistência assíncrona.</td>
       <td><code>Java</code> <code>Spring Boot</code> <code>SQLite</code> <code>WatchService</code></td>
@@ -160,9 +168,3 @@
 </p>
 
 <br/>
-
-### 📊 Atividade & Streak no GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maiorani195&theme=dracula&hide_border=true&background=0d1117&ring=bd93f9&fire=ff5555&currStreakLabel=50fa7b" width="85%" alt="GitHub Streak de Maiorani195" />
-</div>
