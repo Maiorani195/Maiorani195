@@ -5,7 +5,10 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=220&section=header&text=Fernando%20Maiorani&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Engenharia%20Back-end%20%7C%20Redes%20e%20Linux%20%7C%20Estudante%20ADS%20FIAP&descAlignY=58&descSize=16" width="100%" />
   </a>
 
-
+  <!-- Typing SVG Dinâmico -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3200&pause=1000&color=50FA7B&center=true&vCenter=true&multiline=false&width=620&lines=%3E_Engenharia+de+Software+Back-end+com+Java+%26+Python;%3E_Monitoramento+de+Logs,+Linux+e+Seguran%C3%A7a;%3E_APIs+com+Spring+Boot,+FastAPI+e+Bancos+de+Dados;%3E_Graduando+em+ADS+na+FIAP+(Conclus%C3%A3o+12%2F2028)" alt="Typing SVG" />
+  </p>
 
   <!-- Redes e Contato -->
   <p align="center">
