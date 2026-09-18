@@ -95,8 +95,8 @@
   <tbody>
     <tr>
       <td>
-        🛡️ <b><a href="https://github.com/Maiorani195/LogSentinel" target="_blank">LogSentinel</a></b><br/>
-        <img src="https://img.shields.io/badge/Status-Em%20Andamento-bd93f9?style=flat-square" />
+        🛡️ <b><a href="https://github.com/Maiorani195/LogSentinel"Status-Concluído target="_blank">LogSentinel</a></b><br/>
+        <img src="https://img.shields.io/badge/Status--bd93f9?style=flat-square" />
       </td>
       <td>Sistema de monitoramento contínuo de logs em background. Detecta falhas críticas, força bruta e cascatas, disparando alertas no Slack em menos de 3s com persistência assíncrona.</td>
       <td><code>Java</code> <code>Spring Boot</code> <code>SQLite</code> <code>WatchService</code></td>
