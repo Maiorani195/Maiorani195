@@ -82,10 +82,10 @@
 
 <br/>
 
-### 🐍 Atividade no GitHub
+### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Maiorani195/Maiorani195/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://streak-stats.demolab.com?user=Maiorani195&theme=dracula&hide_border=true&border_radius=8&date_format=j%2Fn%5B%2FY%5D&locale=pt_BR" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
@@ -166,5 +166,3 @@
     <img src="https://img.shields.io/badge/Ver_todas_as_certificações_no_LinkedIn_↗-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ver Certificações no LinkedIn" />
   </a>
 </p>
-
-<br/>
