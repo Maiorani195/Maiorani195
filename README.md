@@ -1,16 +1,15 @@
 <div align="center">
 
-  <!-- Banner Superior Estável -->
-  <a href="https://github.com/Maiorani195">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Fernando%20Maiorani&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20Back-end%20%7C%20Linux%20%26%20Infraestrutura%20%7C%20ADS%20FIAP&descAlignY=60&descSize=15" width="100%" alt="Header Fernando Maiorani" />
-  </a>
+  <!-- Header Clean Nativo -->
+  <h1>👨‍💻 Fernando Maiorani</h1>
+  <p><b>Engenharia Back-end &bull; Redes & Linux &bull; Graduando ADS FIAP</b></p>
 
   <!-- Typing SVG Dinâmico -->
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3200&pause=1000&color=50FA7B&center=true&vCenter=true&multiline=false&width=620&lines=%3E_Engenharia+Back-end+com+Java+%26+Python;%3E_Docker,+Observabilidade,+Linux+e+Seguran%C3%A7a;%3E_APIs+com+Spring+Boot,+FastAPI+e+Bancos+de+Dados;%3E_Graduando+em+ADS+na+FIAP+(Conclus%C3%A3o+12%2F2028)" alt="Typing SVG" />
   </p>
 
-  <!-- Badges de Conexão e Contador Real -->
+  <!-- Conexões & Contador de Visitas Real -->
   <p align="center">
     <a href="https://www.linkedin.com/in/fernandomaiorani/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -32,7 +31,7 @@
     <td width="50%" valign="top">
       <h4>⚙️ Engenharia de Software Back-end</h4>
       <ul>
-        <li>🎓 Cursando <b>Análise e Desenvolvimento de Sistemas na FIAP</b>.</li>
+        <li>🎓 Cursando <b>Análise e Desenvolvimento de Sistemas na FIAP</b> (conclusão 12/2028).</li>
         <li>Desenvolvimento com foco em <b>Java (Spring Boot, Spring Data JPA)</b> e <b>Python (FastAPI, Flask)</b>.</li>
         <li>Arquitetura em camadas, construção de APIs RESTful resilientes e testes de integração.</li>
         <li>Persistência relacional e NoSQL: <b>PostgreSQL, Oracle SQL, MongoDB e SQLite</b>.</li>
@@ -43,7 +42,7 @@
       <ul>
         <li><b>Observabilidade & Auto-healing:</b> automação e monitoramento de serviços em <b>Docker</b>.</li>
         <li><b>Ambientes Linux:</b> administração de sistemas Ubuntu, gerenciamento de processos e permissões.</li>
-        <li><b>Shell Scripting:</b> automação de rotinas de deploy, backup e análise de logs.</li>
+        <li><b>Shell Scripting:</b> automação de rotinas de deploy, backup e análise de logs em tempo real.</li>
         <li><b>Redes de Computadores:</b> fundamentos de roteamento, DNS, modelo TCP/IP e protocolos web.</li>
       </ul>
     </td>
@@ -84,7 +83,7 @@
       <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <b>🔧 Ferramentas & Metodologias</b><br/><br/>
+      <b>🔧 Ferramentas & Práticas</b><br/><br/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
       <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
       <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square" />
@@ -111,7 +110,7 @@
         🐳 <b><a href="https://github.com/Maiorani195/ContainerWatch" target="_blank">ContainerWatch</a></b><br/>
         <img src="https://img.shields.io/badge/Status-Destaque-50fa7b?style=flat-square" />
       </td>
-      <td>Sistema de auto-recuperação e observabilidade para Docker. Monitora a saúde de containers, detecta quedas, reinicia serviços automaticamente e persiste histórico via API REST.</td>
+      <td>Plataforma de auto-recuperação e observabilidade para containers Docker. Monitora serviços, detecta falhas, executa auto-restart e persiste todo o histórico via API REST.</td>
       <td><code>Java</code> <code>Spring Boot</code> <code>Docker</code> <code>PostgreSQL</code> <code>Shell</code></td>
     </tr>
     <tr>
@@ -119,7 +118,7 @@
         🛡️ <b><a href="https://github.com/Maiorani195/LogSentinel" target="_blank">LogSentinel</a></b><br/>
         <img src="https://img.shields.io/badge/Status-Concluído-50fa7b?style=flat-square" />
       </td>
-      <td>Monitor contínuo de arquivos de log via WatchService. Detecta padrões anômalos (força bruta e cascatas de erro) e emite alertas automáticos via webhook do Slack.</td>
+      <td>Sistema de monitoramento contínuo de logs via WatchService. Detecta ataques de força bruta e cascatas de erro, disparando notificações instantâneas no Slack.</td>
       <td><code>Java</code> <code>Spring Boot</code> <code>SQLite</code> <code>WatchService</code></td>
     </tr>
     <tr>
@@ -127,7 +126,7 @@
         🎫 <b><a href="https://github.com/Maiorani195/TechDesk" target="_blank">TechDesk</a></b><br/>
         <img src="https://img.shields.io/badge/Status-Concluído-50fa7b?style=flat-square" />
       </td>
-      <td>Módulo de gestão de chamados de TI com foco em domínio do Spring Data JPA, modelagem relacional de tickets e execução de consultas JPQL avançadas.</td>
+      <td>Core de chamados de TI com foco em domínio do Spring Data JPA, relacionamentos bidirecionais e consultas otimizadas com JPQL sem queries manuais soltas.</td>
       <td><code>Java</code> <code>Spring Data JPA</code> <code>Hibernate</code> <code>H2</code></td>
     </tr>
     <tr>
@@ -135,7 +134,7 @@
         🌍 <b><a href="https://github.com/Maiorani195/Earth-1-17" target="_blank">Earth 1-17</a></b><br/>
         <img src="https://img.shields.io/badge/Status-Nota_9_FIAP-50fa7b?style=flat-square" />
       </td>
-      <td>Plataforma de telemetria climática e satélite com IA. Modelagem relacional e normalização completas em Oracle SQL desenvolvidas com destaque na FIAP.</td>
+      <td>Plataforma de telemetria climática e satélite com IA. Modelagem relacional completa e normalizada em Oracle SQL, avaliada com nota de destaque na FIAP.</td>
       <td><code>Oracle SQL</code> <code>MER / DER</code> <code>Python</code> <code>IA</code></td>
     </tr>
   </tbody>
@@ -143,7 +142,7 @@
 
 ---
 
-### 📊 04. Atividade & Estatísticas
+### 📊 04. Atividade no GitHub
 
 <div align="center">
   <table width="100%">
@@ -165,16 +164,16 @@
       <b>🌐 Redes, Sistemas & Linux</b>
       <ul>
         <li><b>Redes e Protocolos:</b> Roteamento, DNS, IPv6 e TCP/IP (Alura)</li>
-        <li><b>Linux & Shell:</b> Processamento de Logs, Permissões e Gestão de Processos (Alura)</li>
+        <li><b>Linux & Shell:</b> Processamento de Logs, Permissões e Processos (Alura)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <b>☕ Back-end, Dados & Arquitetura</b>
       <ul>
-        <li><b>Java & Spring Boot:</b> APIs RESTful, Spring Data JPA e Arquitetura Limpa (Alura)</li>
+        <li><b>Java & Spring Boot:</b> APIs RESTful, Spring Data JPA e Boas Práticas (Alura)</li>
         <li><b>Python & APIs:</b> Django Admin/ORM, Flask com MongoDB e POO (Alura)</li>
-        <li><b>SQL Avançado:</b> Transações, Views, Joins e Otimização (Alura)</li>
-        <li><b>Graduação:</b> Lógica, Algoritmos e Estrutura de Dados (FIAP)</li>
+        <li><b>SQL Avançado:</b> Transações, Views, Joins e Performance (Alura)</li>
+        <li><b>Graduação ADS:</b> Lógica, Algoritmos e Estrutura de Dados (FIAP)</li>
       </ul>
     </td>
   </tr>
