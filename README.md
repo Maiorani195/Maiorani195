@@ -1,34 +1,3 @@
-Used tool: read_url_content
-Viewed content.md:1-11
-Ran command: `powershell -Command "Get-Content 'C:\Users\ferna\.gemini\antigravity\brain\ee5e7653-c93b-42dc-9583-c192fbd9d0cc\.system_generated\steps\2\content.md' | Select-Object -Skip 8 | ConvertFrom-Json | Select-Object name, html_url, description, language, updated_at | Format-Table -AutoSize"`
-Ran command: `powershell -Command "$json = Get-Content 'C:\Users\ferna\.gemini\antigravity\brain\ee5e7653-c93b-42dc-9583-c192fbd9d0cc\.system_generated\steps\2\content.md' -Raw; $json = $json.Substring($json.IndexOf('[')); $repos = $json | ConvertFrom-Json; $repos | Select-Object name, description, language, updated_at, pushed_at | Format-Table -AutoSize"`
-Ran command: `python -c "import json; f=open(r'C:\Users\ferna\.gemini\antigravity\brain\ee5e7653-c93b-42dc-9583-c192fbd9d0cc\.system_generated\steps\2\content.md', encoding='utf-8').read(); idx=f.find('['); data=json.loads(f[idx:]); print('\n'.join(f'{r[\"name\"]} | {r.get(\"language\")} | {r.get(\"description\")} | {r.get(\"pushed_at\")}' for r in data))"`
-Created list_repos.py
-Ran command: `python C:\Users\ferna\.gemini\antigravity\brain\ee5e7653-c93b-42dc-9583-c192fbd9d0cc\scratch\list_repos.py`
-Ran command: `python -c "import urllib.request, json; [print(f'=== {repo} ===\n', urllib.request.urlopen(f'https://raw.githubusercontent.com/Maiorani195/{repo}/main/README.md').read().decode('utf-8', errors='ignore')[:600]) for repo in ['ContainerWatch', 'TechDesk', 'Projetos-Linux-Bash']]"`
-Ran command: `python -c "import urllib.request; print(urllib.request.urlopen('https://raw.githubusercontent.com/Maiorani195/ContainerWatch/main/README.md').read().decode('utf-8', errors='ignore'))"`
-Created fetch_readmes.py
-Ran command: `python C:\Users\ferna\.gemini\antigravity\brain\ee5e7653-c93b-42dc-9583-c192fbd9d0cc\scratch\fetch_readmes.py`
-Viewed ContainerWatch_README.md:1-100
-Viewed TechDesk_README.md:1-68
-
-Aqui está uma versão **moderna, minimalista e de alto impacto** do seu perfil do GitHub.
-
-### 🌟 O que foi aprimorado para deixar mais *clean* e profissional:
-1. **Novos Projetos em Destaque adicionados**:
-   - **`ContainerWatch`** (Seu mais recente e de maior destaque técnico: reúne Docker, Spring Boot, PostgreSQL e scripts Shell para auto-recuperação de containers — casa perfeitamente com seu foco em Back-end + Infra).
-   - **`TechDesk`** (Sistema de Service Desk demonstrando domínio de Spring Data JPA, relacionamentos e JPQL).
-2. **Novas Stacks integradas**: Adicionados **Docker** e **PostgreSQL**, fundamentais para vagas de Back-end e Infraestrutura.
-3. **Design Clean e Responsivo**:
-   - Remoção de tags `<br/>` excessivas e espaçamentos artificiais.
-   - Tabela de projetos padronizada com badges uniformes (`flat-square` discreto e elegante) e descrição orientada a valor (o que o projeto resolve).
-   - Seção de stacks agrupadas harmoniosamente, sem blocos pesados.
-
----
-
-### 📋 Código atualizado do `README.md`:
-
-```markdown
 <div align="center">
 
   <!-- Header Dinâmico -->
@@ -210,4 +179,3 @@ Aqui está uma versão **moderna, minimalista e de alto impacto** do seu perfil 
     <img src="https://img.shields.io/badge/Ver_todas_no_LinkedIn_↗-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Ver Certificações no LinkedIn" />
   </a>
 </p>
-```
