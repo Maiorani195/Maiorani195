@@ -4,11 +4,6 @@
   <h1>👨‍💻 Fernando Maiorani</h1>
   <p><b>Engenharia Back-end &bull; Redes & Linux &bull; Graduando ADS FIAP</b></p>
 
-  <!-- Typing SVG Dinâmico -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3200&pause=1000&color=50FA7B&center=true&vCenter=true&multiline=false&width=620&lines=%3E_Engenharia+Back-end+com+Java+%26+Python;%3E_Docker,+Observabilidade,+Linux+e+Seguran%C3%A7a;%3E_APIs+com+Spring+Boot,+FastAPI+e+Bancos+de+Dados;%3E_Graduando+em+ADS+na+FIAP+(Conclus%C3%A3o+12%2F2028)" alt="Typing SVG" />
-  </p>
-
   <!-- Conexões & Contador de Visitas Real -->
   <p align="center">
     <a href="https://www.linkedin.com/in/fernandomaiorani/" target="_blank">
@@ -21,6 +16,14 @@
   </p>
 
 </div>
+
+---
+
+### 👨‍💻 Sobre mim
+
+Me chamo Fernando Maiorani e tenho 19 anos. Atualmente, estou me formando na FIAP em Análise e Desenvolvimento de Sistemas. Tenho interesse em desenvolver sistemas, automatizar tarefas e compreender como torná-los mais seguros. Quero continuar desenvolvendo minhas habilidades técnicas por meio de desafios, situações reais e colaboração. 
+
+Busco uma oportunidade inicial como **Estagiário**, onde eu possa contribuir, aprender com a equipe e crescer profissionalmente. Tenho experiência com as stacks abordadas abaixo.
 
 ---
 
