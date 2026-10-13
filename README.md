@@ -70,4 +70,105 @@ Busco uma oportunidade inicial como **Estagiário**, onde eu possa contribuir, a
       <b>🐳 DevOps, Infra & Redes</b><br/><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-      <img src="
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🗄️ Bancos de Dados & ORM</b><br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <b>🔧 Ferramentas & Práticas</b><br/><br/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+      <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square" />
+      <img src="https://img.shields.io/badge/Observabilidade-50fa7b?style=flat-square&logoColor=black" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 03. Projetos em Destaque
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="28%" align="left">Projeto</th>
+      <th width="48%" align="left">Descrição & Solução</th>
+      <th width="24%" align="left">Stack Principal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        🐳 <b><a href="https://github.com/Maiorani195/ContainerWatch" target="_blank">ContainerWatch</a></b><br/>
+        <img src="https://img.shields.io/badge/Status-Destaque-50fa7b?style=flat-square" />
+      </td>
+      <td>Plataforma de auto-recuperação e observabilidade para containers Docker. Monitora serviços, detecta falhas, executa auto-restart e persiste todo o histórico via API REST.</td>
+      <td><code>Java</code> <code>Spring Boot</code> <code>Docker</code> <code>PostgreSQL</code> <code>Shell</code></td>
+    </tr>
+    <tr>
+      <td>
+        🛡️ <b><a href="https://github.com/Maiorani195/LogSentinel" target="_blank">LogSentinel</a></b><br/>
+        <img src="https://img.shields.io/badge/Status-Concluído-50fa7b?style=flat-square" />
+      </td>
+      <td>Sistema de monitoramento contínuo de logs via WatchService. Detecta ataques de força bruta e cascatas de erro, disparando notificações instantâneas no Slack.</td>
+      <td><code>Java</code> <code>Spring Boot</code> <code>SQLite</code> <code>WatchService</code></td>
+    </tr>
+    <tr>
+      <td>
+        🎫 <b><a href="https://github.com/Maiorani195/TechDesk" target="_blank">TechDesk</a></b><br/>
+        <img src="https://img.shields.io/badge/Status-Concluído-50fa7b?style=flat-square" />
+      </td>
+      <td>Core de chamados de TI com foco em domínio do Spring Data JPA, relacionamentos bidirecionais e consultas otimizadas com JPQL sem queries manuais soltas.</td>
+      <td><code>Java</code> <code>Spring Data JPA</code> <code>Hibernate</code> <code>H2</code></td>
+    </tr>
+    <tr>
+      <td>
+        🌍 <b><a href="https://github.com/Maiorani195/Earth-1-17" target="_blank">Earth 1-17</a></b><br/>
+        <img src="https://img.shields.io/badge/Status-Nota_9_FIAP-50fa7b?style=flat-square" />
+      </td>
+      <td>Plataforma de telemetria climática e satélite com IA. Modelagem relacional completa e normalizada em Oracle SQL, avaliada com nota de destaque na FIAP.</td>
+      <td><code>Oracle SQL</code> <code>MER / DER</code> <code>Python</code> <code>IA</code></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 📜 04. Certificações & Formação
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🌐 Redes, Sistemas & Linux</b>
+      <ul>
+        <li><b>Redes e Protocolos:</b> Roteamento, DNS, IPv6 e TCP/IP (Alura)</li>
+        <li><b>Linux & Shell:</b> Processamento de Logs, Permissões e Processos (Alura)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <b>☕ Back-end, Dados & Arquitetura</b>
+      <ul>
+        <li><b>Java & Spring Boot:</b> APIs RESTful, Spring Data JPA e Boas Práticas (Alura)</li>
+        <li><b>Python & APIs:</b> Django Admin/ORM, Flask com MongoDB e POO (Alura)</li>
+        <li><b>SQL Avançado:</b> Transações, Views, Joins e Performance (Alura)</li>
+        <li><b>Graduação ADS:</b> Lógica, Algoritmos e Estrutura de Dados (FIAP)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/fernandomaiorani/details/certifications/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_todas_no_LinkedIn_↗-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Ver Certificações no LinkedIn" />
+  </a>
+</p>
