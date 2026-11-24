@@ -18,7 +18,7 @@ Meus estudos também abrangem bancos de dados, Linux, redes e automação, ampli
 
 ## Projeto em destaque
 
-### [MVault Backend](https://github.com/Maiorani195/MVault-Backend)
+### [MVault](https://github.com/Maiorani195/MVault-Backend)
 
 API para gestão de estoque e controle patrimonial, desenvolvida com **Java, Spring Boot e PostgreSQL**.
 
@@ -33,7 +33,7 @@ O projeto reúne:
 
 ## Formação e aprendizado
 
-Minha formação complementar inclui cursos e trilhas da Alura em desenvolvimento Java e Python, bancos de dados, Linux, redes, automação e segurança.
+Minha formação complementar inclui cursos e trilhas  em desenvolvimento Java e Python, bancos de dados, Linux, redes, automação e segurança.
 
 Atualmente, estou aprofundando a aplicação desses conhecimentos no desenvolvimento de APIs, na persistência de dados e na validação de regras de negócio.
 
